@@ -1,0 +1,25 @@
+h1{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    border-width: 5px;
+    border-color: rgb(44, 160, 44);
+    border-style:dashed;
+
+
+}
+.first {
+    background-color: purple;
+    height:25px;
+    width:50px;
+
+}
+
+.second {
+    font-family:'Courier New', Courier, monospace
+
+}
+
+div{
+ border: 5px green dashed;
+
+}
