@@ -1,0 +1,72 @@
+div {
+Height:250px;
+width:250px;
+background-Color: blue
+}
+
+.second {
+Height:250px;
+width:250px;
+background-color: green
+
+}
+
+.third {
+Height:250px;
+width:250px;
+background-color: purple
+}
+
+.fourth {
+position: relative;
+left:250px;
+bottom:250px;
+height:250px;
+width:250px;
+background-color:yellow
+}
+
+.fifth {
+position: relative;
+left:250px;
+bottom:750px;
+height:250px;
+width:250px;
+background-color:pink
+}
+
+.sixth {
+position: relative;
+left:250px;
+bottom:1250px;
+height:250px;
+width:250px;
+background-color:orange
+}
+
+.seventh {
+position: relative;
+left:500px;
+bottom:1500px;
+height:250px;
+width:250px;
+background-color:red
+}
+
+.eighth {
+position: relative;
+left:500px;
+bottom:1500px;
+height:250px;
+width:250px;
+background-color: tan
+}
+
+.ninth {
+position: relative;
+left:500px;
+bottom:1500px;
+height:250px;
+width:250px;
+background-color: skyblue
+}
