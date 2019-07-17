@@ -68,4 +68,12 @@
     left: 409px;  
 }
 
+#message{
+    position: absolute;
+    height: 100px;
+    width: 400px;
+    bottom: 90px;
+    left: 260px;
+
+}
  
