@@ -1,71 +1,71 @@
 #top-left {
     border: 1px solid black;
-    height: 199px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
 }
 
 #middle-left{
     
     border: 1px solid black;
-    height: 200px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
     
 }
 #bottom-left{
     border: 1px solid black;
-    height: 200px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
 }
 #bottom-middle{
     position: relative;
     border: 1px solid black;
-    height: 200px;
-    width: 200px;
-    left: 200px;
-    bottom: 202px;
+    height: 100px;
+    width: 100px;
+    left: 100px;
+    bottom: 102px;
 }
  #middle-middle{
     position: absolute;
     border: 1px solid black;
-    height: 200px;
-    width: 200px;
-    left:208px;
-    bottom: 409px;
+    height: 100px;
+    width: 100px;
+    left:108px;
+    bottom: 609px;
 }
 
 #top-middle{
     position: relative;
     border: 1px solid black;
-    height: 200px;
-    width: 200px;
-    left:200px;
-    bottom: 807px;
+    height: 100px;
+    width: 100px;
+    left:100px;
+    bottom: 407px;
 }
 
 #top-right{
     position: absolute;
     border: 1px solid black;
-    height: 202px;
-    width: 200px;
-    bottom: 609px;
-    left: 409px;    
+    height: 100px;
+    width: 100px;
+    bottom: 709px;
+    left: 209px;    
 }
 
 #middle-right{
     position: absolute;
     border: 1px solid black;
-    height: 200px;
-    width: 200px;
-    bottom: 409px;
-    left: 409px;   
+    height: 100px;
+    width: 100px;
+    bottom: 609px;
+    left: 209px;   
 }
 #bottom-right{
     position: absolute;
     border: 1px solid black;
-    height: 202px;
-    width: 200px;
-    bottom: 207px;
-    left: 409px;  
+    height: 102px;
+    width: 100px;
+    bottom: 507px;
+    left: 209px;  
 }
 
 #message{
@@ -73,62 +73,271 @@
     height: 100px;
     width: 400px;
     bottom: 90px;
-    left: 260px;
+    left: 310px;
 
 }
 #block-1{
     position: relative;
-    height: 200px;
+    height: 100px;
     border: 1px solid black;
-    width: 200px;
-    bottom: 405px;
+    width: 100px;
+    bottom: 205px;
     left: 0px;
 }
 #block-2{
     position: relative;
-    height: 200px;
+    height: 100px;
     border: 1px solid black;
-    width: 200px;
-    bottom: 607px;
-    left: 200px;
+    width: 100px;
+    bottom: 307px;
+    left: 100px;
 }
 #block-3{
     position: relative;
-    height: 200px;
+    height: 100px;
     border: 1px solid black;
-    width: 200px;
-    bottom: 809px;
-    left: 401px;
+    width: 100px;
+    bottom: 409px;
+    left: 200px;
 }
 #block-4{
     position: relative;
-    height: 200px;
+    height: 100px;
     border: 1px solid black;
-    width: 200px;
-    bottom: 1011px;
-    left: 601px;
+    width: 100px;
+    bottom: 511px;
+    left: 301px;
 }
 #block-5{
     position: relative;
-    height: 200px;
+    height: 100px;
     border: 1px solid black;
-    width: 200px;
-    bottom: 1415px;
-    left: 601px;
+    width: 100px;
+    bottom: 715px;
+    left: 302px;
 }
 #block-6{
     position: relative;
-    height: 200px;
+    height: 100px;
     border: 1px solid black;
-    width: 200px;
-    bottom: 1818px;
-    left: 601px;
+    width: 100px;
+    bottom: 917px;
+    left: 302px;
 }
 #block-7{
-position: relative;
-height: 200px;
-border: 1px solid black;
-width: 200px;
-bottom: 2221px;
-left: 601px;
+    position: relative;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 1120px;
+    left: 301px;
 }
+#block-8{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 305px;
+    left: 8px;
+}
+#block-9{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 305px;
+    left: 108px;
+}
+#block-10{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 305px;
+    left: 208px;
+}
+#block-11{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 305px;
+    left: 309px;
+}
+#block-12{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 305px;
+    left: 410px;
+}
+#block-13{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 407px;
+    left: 410px;
+}
+#block-14{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 507px;
+    left: 410px;
+}
+#block-15{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 607px;
+    left: 410px;
+}
+#block-16{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 709px;
+    left: 410px;
+}
+#block-17{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 204px;
+    left: 8px;
+}
+#block-18{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 204px;
+    left: 108px;
+}
+#block-19{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 204px;
+    left: 208px;
+}
+#block-20{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 204px;
+    left: 308px;
+}
+#block-21{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 204px;
+    left: 410px;
+}
+#block-22{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 204px;
+    left: 510px;
+}
+#block-23{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 304px;
+    left: 510px;
+}
+#block-24{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 406px;
+    left: 510px;
+}
+#block-25{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 508px;
+    left: 510px;
+}
+#block-26{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 608px;
+    left: 510px;
+}
+#block-27{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 709px;
+    left: 510px;
+}
+#block-28{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 709px;
+    left: 611px;
+}
+#block-29{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 608px;
+    left: 611px;
+}
+#block-30{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 508px;
+    left: 611px;
+}
+#block-31{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 406px;
+    left: 611px;
+}
+#block-32{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 305px;
+    left: 611px;
+}
+#block-33{
+    position: absolute;
+    height: 100px;
+    border: 1px solid black;
+    width: 100px;
+    bottom: 204px;
+    left: 611px;
+}
+
